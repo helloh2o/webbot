@@ -1,0 +1,18 @@
+# 连接地址
+TargetURL: http://192.168.1.201:8082
+# 同时在线人数
+Concurrent: 5000
+# 同时在线间隙时间，为0表示Concurrent个用户同时发起登录或者注册
+ConcurrentTick: 100
+# 运行时间
+Timeout: 0
+# 动作有先后 Captcha必须有
+Actions: [
+  { "name": "Captcha","url": "/api/captcha/request","method": "GET" },
+  { "name": "Signup","url": "/api/login/signup","method": "POST" },  # 次数为0，需要才执行，大于0表示每个机器人会注册多少个账号
+  { "name": "SignIn","url": "/api/login/signin","method": "POST","times": 1 },
+  # 获取热点
+  { "name": "GetNews","url": "/api/topic/node/news","method": "GET","tick": 200,"times": 5000 ,"page": 1,"page_name": "page" }, #page 页面，从当前页面开始浏览
+  # POST发帖， tick 为间隔时间
+  { "name": "PostTopic","url": "/api/topic/create","method": "POST","tick": 11000,"times": 100 }
+]

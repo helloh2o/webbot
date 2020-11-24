@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc4d385e-d016-48ce-a83e-32ab8d258391" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1kPL8dSH7wEoLaiMwdSwUyHX5UC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sp" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ayoo\go\src\robot\sp" />
+      <recent name="C:\Users\ayoo\go\src\robot\ab" />
+      <recent name="C:\Users\ayoo\go\src\robot" />
+      <recent name="C:\Users\ayoo\go\src\robot\conf" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ayoo\go\src\robot\func" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build robot/ab">
+    <configuration name="go build robot" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="robot" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="robot" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build robot/ab" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="robot" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/ab/goab.go" />
+      <package value="robot/ab" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build robot" />
+        <item itemvalue="Go Build.go build robot/ab" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="752" y="353" key="#Go_Modules" timestamp="1605599327930">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="752" y="353" key="#Go_Modules/0.0.1920.1040@0.0.1920.1040" timestamp="1605599327930" />
+    <state width="1877" height="644" key="GridCell.Tab.0.bottom" timestamp="1605782974383">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="644" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605782974383" />
+    <state width="1877" height="644" key="GridCell.Tab.0.center" timestamp="1605782974383">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="644" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605782974383" />
+    <state width="1877" height="644" key="GridCell.Tab.0.left" timestamp="1605782974383">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="644" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605782974383" />
+    <state width="1877" height="644" key="GridCell.Tab.0.right" timestamp="1605782974383">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="644" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605782974383" />
+    <state width="1877" height="644" key="GridCell.Tab.1.bottom" timestamp="1605782974285">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="644" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605782974285" />
+    <state width="1877" height="644" key="GridCell.Tab.1.center" timestamp="1605782974285">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="644" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605782974285" />
+    <state width="1877" height="644" key="GridCell.Tab.1.left" timestamp="1605782974285">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="644" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605782974285" />
+    <state width="1877" height="644" key="GridCell.Tab.1.right" timestamp="1605782974285">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="644" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605782974285" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1605682288907">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605682288907" />
+  </component>
+</project>
